@@ -57,7 +57,7 @@ export function Login() {
         py: '2',
         rounded: 10
       })
-    } 
+    } else { 
 
     try {
       const querryParams = new URLSearchParams({ email, password }).toString();
@@ -125,6 +125,8 @@ export function Login() {
         py: '2',
         rounded: 10
       })
+
+    }
 
   
   }
