@@ -37,3 +37,5 @@ npm start
 ```bash
 npx expo start
 ```
+
+After all these steps and you start running the app, go to the app's settings page and add at least ten words. That's it, enjoy the game now
