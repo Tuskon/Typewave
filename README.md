@@ -2,7 +2,7 @@
 
 ## Let's start run the project
 
-Before we begin, you will need to have Node.js and Android SKD installed on your machine, have an Apache server running, have a Expo application installed at your smartphone or your virtual device and a SQL database manager
+Before we begin, you will need to have Node.js and Android SKD installed on your machine, have an Apache server running, have a Expo application installed at your smartphone or on your virtual device and a SQL database manager
 
 1. Install dependencies
 
